@@ -1,0 +1,26 @@
+# Dunnville Heating & Cooling
+
+> Dunnville Heating & Cooling is a local HVAC company serving Dunnville, Brant/Haldimand-Norfolk, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (000) 000-0000  |  Email: contact@dunnvilleheatingcooling.ca  |  Website: https://dunnvilleheatingcooling.ca
+
+Service areas: Dunnville, Brantford, Paris, Caledonia, Simcoe, Port Dover, Nanticoke, Ayr, Aylmer
+
+## Key pages
+
+- [Home](https://dunnvilleheatingcooling.ca/): Dunnville Heating & Cooling homepage with service overview and FAQ
+- [About](https://dunnvilleheatingcooling.ca/about/): About the company and service area
+- [Contact](https://dunnvilleheatingcooling.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Furnace Installation & Repair](https://dunnvilleheatingcooling.ca/services/furnace-repair/): Furnace Installation & Repair in Dunnville, Ontario
+- [AC Installation & Repair](https://dunnvilleheatingcooling.ca/services/ac-repair/): AC Installation & Repair in Dunnville, Ontario
+- [Heat Pumps](https://dunnvilleheatingcooling.ca/services/heat-pump-repair-installation/): Heat Pumps in Dunnville, Ontario
+- [Duct Cleaning](https://dunnvilleheatingcooling.ca/services/duct-cleaning/): Duct Cleaning in Dunnville, Ontario
+- [Thermostats](https://dunnvilleheatingcooling.ca/services/thermostat-repair-replacement/): Thermostats in Dunnville, Ontario
+- [Ductless AC Installation](https://dunnvilleheatingcooling.ca/services/ductless-ac-installation/): Ductless AC Installation in Dunnville, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Dunnville are answered on the homepage.

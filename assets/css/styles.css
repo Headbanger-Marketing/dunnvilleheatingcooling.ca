@@ -667,7 +667,7 @@ textarea { resize: vertical; min-height: 100px; }
 .faq__a p { margin: 0; }
 
 /* ---------- Areas ---------- */
-.areas { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; }
+.areas { display: flex; flex-wrap: wrap; gap: 10px; justify-content: left; list-style: none; padding: 0; margin: 0; }
 .areas li a, .area-pill {
   display: inline-flex; align-items: center; gap: 8px;
   padding: 10px 20px; background: var(--card-bg);
@@ -681,7 +681,7 @@ textarea { resize: vertical; min-height: 100px; }
   transform: translateY(-2px);
   box-shadow: var(--shadow-sm);
 }
-.areas svg { width: 15px; height: 15px; color: var(--accent); }
+.areas svg { width: 15px; height: 15px; color: var(--accent); flex-shrink: 0; }
 
 /* ---------- Page hero (inner) ---------- */
 .page-hero {
